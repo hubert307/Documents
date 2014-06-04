@@ -4,4 +4,11 @@
 
 2. 真的不行的時候放棄 SSH，以 HTTP 的方式進行登入，但要打帳號密碼。
 
+	HTTP
+		https://github.com/hubert307/Documents.git
+
+	SSH
+		git@github.com:hubert307/Documents.git
+
+
 3. TortoiseGit -> Pageant 要記得 Load Private Key，GitHub 網站要 Load Public Key。
