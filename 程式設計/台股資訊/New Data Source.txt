@@ -1,0 +1,9 @@
+[TWSE]
+http://mis.tse.com.tw/stock/api/getStockInfo.jsp?ex_ch=tse_2317.tw_20140530&json=1&delay=0&_=1401450118102
+http://mis.tse.com.tw/stock/api/getStockInfo.jsp?ex_ch=tse_2317.tw_20140603&json=1&delay=0&_=1401450118102
+
+[OTC]
+http://mis.tse.com.tw/stock/api/getStockInfo.jsp?ex_ch=otc_8446.tw_20140530&json=1&delay=0&_=1401450118102
+
+[Weight / OTC / 寶島股價指數]
+http://mis.tse.com.tw/stock/api/getStockInfo.jsp?ex_ch=tse_t00.tw|otc_o00.tw|tse_FRMSA.tw&json=1&delay=0&_=1401464211663
